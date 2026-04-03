@@ -36,4 +36,5 @@ console.log(url.replace('%20', '-'));
 // console.log(url.includes('Priyanshu'));
 console.log(url.includes('priyanshu'));
 
-console.log(gameName.split);
+console.log(gameName.split('-'));
+// Read about 'split' from link: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
